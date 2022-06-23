@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.cafecitti.com	TRUE	/	FALSE	1999999999	crumb	Bd/pIYP8gS0DNzYzYzNjMmI0MGFhZmUwY2JhZmE5ZWVjNzliMDk3
-
